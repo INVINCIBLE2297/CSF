@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/csfdemo.dir/CSFDemo.cpp.o -o csfdemo  csf/libCSF.a 
